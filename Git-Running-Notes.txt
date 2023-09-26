@@ -169,7 +169,12 @@ git clone
   downloading the data from  remote repo(github) to local repo(git) - 1st time
 git clone
 
+# prod-URL
+https://www.amazon.com
 
+# dev-URL
+
+https://www.amazon.com/dev
 
 
 
