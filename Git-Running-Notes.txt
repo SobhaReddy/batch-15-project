@@ -1,0 +1,209 @@
+Source Code Management:
+==================
+Git, GitHub & GitLab
+
+SVN
+CVS
+VCS
+
+Git:
+===========
+
+DevOps - 6Months
+DevOps - while automation
+
+Git --version
+they have installed 
+
+cat /etc/os-release
+
+centos - yum
+ubuntu - apt-get
+
+git ready
+
+git init
+
+git config --global user.name "shobha"
+git config --global user.email "reddy.sobha19@gmail.com"
+
+ vim file1:
+================
+3 imp commands
+git status
+git add file1  - green color
+git commit "file added"
+
+Git history:
+==================
+git log
+git log --oneline
+
+i want to add & commit in single line:
+==================================
+new file
+vim file2
+
+add
+commit
+
+git commit -a -m "file2"
+
+vim file3
+5 lines of data
+
+wq:!
+adding
+commit
+
+git diff
+
+commit 
+
+file is deleted how to getback:
+============================
+2 steps
+1. git sadd
+2. git commit -m "file1"
+
+commitid
+
+git revert commitid
+
+add
+commit
+
+file4
+============
+hi team
+just to check deletion file
+revert back
+
+git add
+git commit
+
+
+delete file4
+==============
+add
+comm - commitid 
+
+revert the changes
+==================
+git revret commitid - msg
+
+Git Branch:
+================
+is storing the data 
+
+dev - future branch- dev environment
+
+environment
+===============
+1. Dev Environment - application deployment - 3 MONTHS - dev branch
+2. QA Environment(Test Env) - 3 months - QA branch
+3. staging ENV (Pre-pord) - 3 months - staging
+4. production(prod) - 2 -  master branch
+
+main branch
+Hotfix branch
+
+abc.txt
+
+10 lines of data
+
+aws - directory
+
+i want move this file destination location linux
+
+
+
+
+/root/gitdemo/project/aws - destination location
+
+
+/root/gitdemo/project/aws
+
+file 1 my project
+
+git branch
+
+dev branch
+============
+
+git branch dev
+
+git test
+
+logs.txt
+
+git checkout dev
+
+
+git merge logs.txt dev
+
+file10
+merge
+============
+dev 
+  login.txt - add committed
+QA -  
+  git merge dev QA
+login.txt
+
+conflicts error
+
+GitHub
+===========
+free account
+you can maintain the code
+dev also this location
+
+dev branch
+
+github account
+================
+
+git clone
+==========
+  downloading the data from  remote repo(github) to local repo(git) - 1st time
+git clone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
