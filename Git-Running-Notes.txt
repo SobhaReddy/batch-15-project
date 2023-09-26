@@ -176,9 +176,9 @@ https://www.amazon.com
 
 https://www.amazon.com/dev
 
+# QA-URL
 
-
-
+https://www.amazon.com/qa
 
 
 
