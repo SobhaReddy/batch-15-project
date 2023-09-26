@@ -180,6 +180,11 @@ https://www.amazon.com/dev
 
 https://www.amazon.com/qa
 
+# stage URL (Pre-production)
+https://www.amazon.com/stage
+
+
+
 
 
 
