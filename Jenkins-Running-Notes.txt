@@ -1,0 +1,94 @@
+Continous Integrataion Tool: CI  - DevOps
+==============================
+Jenkins - 80%
+GitLab
+Teamcity
+Bamboy
+CodeShip
+Travis CI
+
+Continuous Integration Server-CI - Continuous deployment (CD), Continous Delivery
+CI-CD Automation
+
+AWS - Cloud
+=============
+CI - Code deploy, Code delivery
+
+Jenkins Architecture
+Jenkins Server 
+================
+Pre-Requisites
+4 tools
+1. Java - env variable as well   - done
+     /usr/lib/jvm/java-11-openjdk-11.0.20.0.8-1.amzn2.0.1.x86_64
+2. Git   - done
+3. Maven  - maven version   - Done
+     env var
+      Maven home: /usr/share/maven
+
+4. Jenkins
+
+jenkins default port - 8080
+jenkins is purely working with plugins
+
+Jenkins Master dashboard
+===========================
+Jenkins master server - publicip address:8080
+
+systemctl status jenkins - ded
+systemctl start jenkins
+http://3.82.205.121:8080/
+      54.209.227.255
+
+EIP - Elastic ip server
+
+Green colour- Job success
+Red Colour - Job failure
+Blue - waiting in queue to execute
+
+6 hrs - per day - 8hrs
+3 hrs
+2 hrs
+1 hrs
+30-40mnts
+
+
+
+Build Tool:
+============
+Maven - open source
+Ant
+Gradle - paid one
+pom.xml - project object model (Extensible Markup Langiage)- Application team
+
+500 lines of java code
+validate 
+
+binary formate - 0s and 1's
+
+
+
+
+
+
+
+
+
+
+
+
+subversion 
+==========
+manage jenkins - manage plugiuns 
+
+
+jenkins
+==========
+plugin is installed
+
+java, maven, git - server
+
+
+
+
+
