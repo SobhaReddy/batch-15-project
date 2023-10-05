@@ -1,0 +1,166 @@
+DevOps:
+==============
+Developers & oprations
+collaboratations
+
+Pre-Req:
+===========
+1. Os- Linux
+Server - os installation top of windows
+
+Cloud:
+======
+AWS - Amazon web services
+AWS - FREE Account
+
+Pre-req to create the AWS Account:
+==============================
+E-Mail id
+debit/credit card - 2/rs
+5 steps
+
+server in aws - ec2 instances
+Linux
+
+2. DevOps:
+==============
+1. Source Code Management - SCM - Git, GitHub, GitLab - server (AWS) - Java - 
+2. Build Tool - Maven - testing 
+3. Continous Integration Tool(CI) - Jenkins (Groovy script) - CI-CD Automation - AWS - Shell script
+4. Contanairzation Tool - Docker - AWS
+5. Container Orchestratation Tool - Kubernetes (K8S) - Google Cloud Platform (GCP)
+6. Configuration management Tool - Ansible - AWS
+
+Cloud
+=========
+1. AWS - 37 %
+2. Azure - 20%
+3. GCP - 12-15 %
+4. Digital occesan
+5. Private Cloud ( oracle, IBM, Rakuten) - 5 %
+
+AWS Cloud:
+============
+1. VM Instance -EC2 - Server - 8GB RAM - free 
+2. LoadBalancer
+3. Auto Scalling - 10 servers - 100 servers ( 50 servers)
+4. Networking - VPC 
+   Subnets
+   subnetsmasks
+   Route Table
+   Internet Gateway
+   NAT Gateway
+5. S3 - Storage
+6. Monitoring Tool - Cloud Watch
+   Prometheus & Grafana
+7. SNS - Simple Notifications Services
+8. IAM Role - Identity & Access Management
+9. AMI - Amazon Machin Images
+10. RDS - Relational Database system
+11. EBS - Backup
+12. EIP - IP Address - permananet IP Address
+
+User Interface
+
+IaaC Tool:
+===========
+Infrastructure as a Code - Terraform
+
+
+
+Agile principles:
+=================
+java - 2 months
+testing - 2months
+devops - 2months 
+  java 
+  testing
+
+java - testing - devops - automation
+
+tool - architecture
+=========================
+
+src- git , github
+
+Mock Interviews:
+=====================
+linux
+git
+github
+
+Resume preparation
+====================
+
+Live Project:
+==============
+3hrs
+5 Live Projects
+1. Day to Day activities
+2. tickets are assigned
+3. pre-req
+
+3hrs - 2hrs - 30 hrs
+
+documentation - interviews- 
+day to day recording
+
+Gmail - drive access
+
+please screen shot - whatsapp
+
+6 - 12 am
+
+8688505053 - shobha
+=============
+
+Linux:
+=============
+
+windows 
+
+2-3 days free class
+
+Testing
+===========
+java
+
+DevOps & CLoud Engineer
+=======================
+4 Jobs
+1. Linux & DevOps Engineer
+2. DevOps & Cloud Engineer
+3. SRE - Site Realiability Engineer
+4. Linux, DevOps & Cloud Engineer
+
+
+testing - 10-12Lacs
+devops - 12-16Lacs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
